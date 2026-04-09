@@ -1,2 +1,0 @@
-print("Hello, Everyone")
-print("perkenalkan");print("nama saya:Sarah azkiya maulida");print("biasa di panggil:Sarah/azkiya");print("alamat saya:kp.bendungan telur");print("cita-cita saya: psikolog"); print("hobi saya:menonton series dan menggambar");print("asal sekolah saya:SMP GPI Solokan jeruk");
