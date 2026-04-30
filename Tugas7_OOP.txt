@@ -1,0 +1,13 @@
+jaringan_internet= int(input("masukkan jaringan internet(dalam satuan mbps): "))
+
+jaringan = jaringan_internet / 1000
+
+if jaringan > 50:
+   kecepatan = ("sangat cepat")
+elif jaringan > 20:
+   kecepatan = ("cepat")
+elif jaringan > 5:
+   kecepatan = ("sedang")
+else:
+   kecepatan = ("lambat")
+print("hasil kualitas jaringan:", kecepatan)
